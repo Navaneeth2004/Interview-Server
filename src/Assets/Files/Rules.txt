@@ -1,0 +1,10 @@
+heading=Rules
+para=Arrange for stable Internet connectivity.
+para=Make sure mobile/laptop is fully charged. Power bank for mobile or UPS/Inverter for laptop/desktop should be arranged for uninterrupted power supply.
+para=Close all browsers/tabs before starting the online examination.
+para=Once the exam starts, do not switch to any other window/tab. On doing so, your attempt may be considered as malpractice and your exam may get terminated.
+para=Do Not Pickup/Receive the Call during the exam if you are giving the exam on mobile. This also will be treated as changing the window.
+para=To avoid unwanted pop-ups, <mark>use of Ad Blocker is recommended</mark>.
+para=Do not use the back button of keyboard or close button/icon to go back to previous page or to close the screen
+para=It is recommended to use web browser such as Mozilla and Chrome browsers etc. on a desktop/laptop/tab/smart phone.
+para=For any technical queries/difficulties, immediately mail with <strong>proper</strong> screenshot and student’s details to the mail test@geca.ac.in
